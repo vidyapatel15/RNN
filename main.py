@@ -9,7 +9,7 @@ import time
 # Set page configuration
 st.set_page_config(
     page_title="IMDB Movie Review Classifier by vidya",
-    page_icon="🎬
+    page_icon="🎬",
     layout="wide"
 )
 
